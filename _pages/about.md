@@ -8,7 +8,10 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  more_info:
+  more_info: >
+    <div class="social mt-2">
+      {% include socials.liquid %}
+    </div>
 
 news: false
 latest_posts: false
