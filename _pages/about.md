@@ -2,29 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Economics, UC Santa Barbara
-
+subtitle: >
+  University of California, Santa Barbara<br>
+  Santa Barbara, California 93106
+  
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Economics</p>
-    <p>University of California, Santa Barbara</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  more_info:
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false
+latest_posts: false
+selected_papers: false
+social: true
 ---
 
 I am a fifth-year Ph.D. candidate in Economics at the University of California, Santa Barbara. My research sits at the intersection of development economics and gender.
