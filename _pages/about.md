@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: >
   University of California, Santa Barbara<br>
   Santa Barbara, California 93106
   
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false
   more_info:
