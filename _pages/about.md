@@ -9,10 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <div class="social mt-2">
-      {% include socials.liquid %}
-    </div>
-
+    <p style="margin-top: 10px;">
+      <a href="assets/pdf/cv.pdf" style="margin-right: 8px; color: white;">CV</a>
+      <a href="mailto:kajari@ucsb.edu" style="margin-right: 8px; color: white;"><i class="fas fa-envelope"></i></a>
+      <a href="https://scholar.google.com/citations?user=yx2OavQAAAAJ" style="margin-right: 8px; color: white;"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://www.linkedin.com/in/kajari-saha-a17a5a152/" style="color: white;"><i class="fab fa-linkedin"></i></a>
+    </p>
+    
 news: false
 latest_posts: false
 selected_papers: false
