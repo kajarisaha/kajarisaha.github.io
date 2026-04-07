@@ -60,6 +60,26 @@
       "summary": "Vol. 59(1), pp. 169-200."
     }
   ],
+    "projects": [
+  {
+    "name": "Weathering Violence in India: Climate Shocks and Spousal Abuse",
+    "summary": "Presented at: Agriculture and Applied Economics Association (AAEA) Conference, 2025 (Full Paper)",
+    "highlights": [],
+    "keywords": ["Working Paper"]
+  },
+  {
+    "name": "Forced Sterilization and Healthcare Avoidance: Evidence from India's Emergency (1975-77)",
+    "summary": "",
+    "highlights": [],
+    "keywords": ["Working Paper"]
+  },
+  {
+    "name": "Reshaping Roles: How Marriage Shapes Gender Role Attitudes in Egypt",
+    "summary": "with Shraddha Yadav and Koustuv Saha. Presented at: AAEA Conference 2024 (Poster); All-CA Labor Economics Conference (ACLEC) 2025 (Poster)",
+    "highlights": [],
+    "keywords": ["Working Paper"]
+  }
+],
   "work": [
     {
       "name": "University of California, Santa Barbara",
@@ -100,7 +120,7 @@
   "awards": [
     {
       "title": "Research Quarter Fellowship",
-      "date": "Spring 2025, Spring 2026",
+      "date": "2025, 2026",
       "awarder": "University of California, Santa Barbara"
     },
     {
@@ -145,7 +165,6 @@
     }
   ],
   "references": [],
-  "projects": [],
   "volunteer": [],
   "languages": [],
   "certificates": []
