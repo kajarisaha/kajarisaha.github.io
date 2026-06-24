@@ -1,7 +1,8 @@
 ---
 layout: about
-title: Home
+title: Kajari Saha
 permalink: /
+description: Ph.D. candidate in Economics at UC Santa Barbara. Research on development economics and gender — policy, environmental shocks, and social institutions in low- and middle-income countries.
 subtitle:
   
 profile:
