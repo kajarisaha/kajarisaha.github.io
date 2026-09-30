@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Works in Progress
 
-**Weather Shocks, Credit Access and Intimate Partner Violence in India** *(Job Market Paper)*
+**Climate Shocks, Intimate Partner Violence and Financial Resilience in India** *(Job Market Paper)*
 <br>[\[Abstract\]](#abstract-climate) [\[Draft\]](https://drive.google.com/file/d/1iDX8D-oc-Q5tuSS7oihSn8OX44aYHxG0/preview)
 
 <div id="abstract-climate" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
