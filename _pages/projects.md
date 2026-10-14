@@ -17,7 +17,7 @@ This study examines how weather shocks affect women’s exposure to intimate par
 
 ---
 
-**Scars of the Emergency: Long-run Consequences of India's Coercive Sterilization Campaign**
+**Forced Sterilization and Healthcare Avoidance: Evidence from India's Emergency (1975-77)**
 [\[Abstract\]](#abstract-sterilization) [\[Paper\]](#)
 
 <div id="abstract-sterilization" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
