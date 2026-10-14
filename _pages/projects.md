@@ -8,11 +8,11 @@ nav_order: 2
 
 ## Works in Progress
 
-**Climate Shocks, Intimate Partner Violence and Financial Resilience in India** *(Job Market Paper)*
+**Weathering Violence in India: Climate Shocks and Spousal Abuse** *(Job Market Paper)*
 <br>[\[Abstract\]](#abstract-climate) [\[Draft\]](https://drive.google.com/file/d/1iDX8D-oc-Q5tuSS7oihSn8OX44aYHxG0/preview)
 
 <div id="abstract-climate" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-This study examines how weather shocks affect women’s exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women’s reports of IPV from the 2015–16 and 2019–21 rounds of India’s National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV. Growing-season drought raises overall IPV prevalence by 11.3\%, while every 10 additional days with mean temperature above $30^\circ$C raises IPV prevalence by 3.8\%. Consistent with an income channel, access to formal finance mitigates the effect of drought on IPV. At the household level, access to bank accounts attenuates the drought–IPV relationship. At the district level, direct agricultural lending to farmers significantly attenuates the effect of drought on IPV, while indirect, agribusiness-linked credit and non-agricultural credit have no effect. Finally, the substantially larger effects of wet-bulb heat extremes relative to dry-bulb extremes are consistent with a more immediate, heat-induced physiological stress channel.
+This study examines how weather shocks affect women’s exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women’s reports of IPV from the 2015–16 and 2019–21 rounds of India’s National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV. Growing-season drought raises the overall IPV prevalence by 10.8\%, while a one standard deviation increase in the number of days with mean temperature above $30^\circ$C raises it by 17.9\%. Consistent with an income channel, access to formal finance appears to mitigate the effect of drought on IPV. Finally, the substantially larger effects of humid-heat extremes relative to dry-heat extremes in the non-growing season is consistent with a more immediate, heat-induced physiological stress channel.
 </div>
 
 ---
