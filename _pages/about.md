@@ -18,7 +18,7 @@ social: false
 
 I am currently a Ph.D. candidate in Economics at the University of California, Santa Barbara. 
 
-My research sits at the intersection of gender and development economics, with a focus on how social institutions shape gendered responses to the ongoing challenges of climate change and state-led coercive interventions. My work combines causal inference methods with administrative and survey data to help guide the design of more effective and feasible policies. You can find more about my research [here](/projects/).
+My research interests lie in development economics, with a focus on how economic shocks and public interventions shape household welfare and gender inequality in low and middle-income countries. While much of my work focuses on India, my broader research agenda seeks to examines the drivers of gender inequality across different contexts. I combine quasi-experimental methods with survey and administrative data to address policy-relevant questions. You can find more about my research [here](/projects/).
 
 I am on the job market in 2026-2027.
 
