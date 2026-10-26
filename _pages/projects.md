@@ -39,7 +39,7 @@ Despite progress towards a more gender equal society, substantial gender-based d
 ## Publications
 
 **The China trade shock and the gender wage gap in India: A district‑level analysis**
-[\[Abstract\]](#abstract-chinashock) [*Indian Economic Review*](https://link.springer.com/article/10.1007/s41775-024-00223-1) (2024)
+<br> [\[Abstract\]](#abstract-chinashock) <a href="https://link.springer.com/article/10.1007/s41775-024-00223-1"><i>Indian Economic Review</i></a> (2024)
 
 <div id="abstract-chinashock" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
 This study provides new evidence on the debate surrounding international trade and the gender wage gap in a developing country context. It asks whether increased competition from trade has any causal effect on the district-level gender wage gap in India. Changes in competition from trade are measured using changes in imports from China, owing to the dramatic rise in Chinese imports into India in recent years. To isolate the supply-driven component of Chinese imports and establish causality, I use Chinese import growth in other low and lower-middle-income countries as an instrument for Chinese import growth in India. Results indicate a positive and statistically significant impact of an increase in Chinese imports on the gender wage gap over time. In addition to the economy-wide sample of workers, this effect holds true for the sub-samples of casual laborers and rural sector workers where the majority of women workers in India are concentrated. Unlike previous studies using industry-level data, the district-level focus of this study allows us to capture micro-level effects, as well as the net effects of trade in the surrounding district.
