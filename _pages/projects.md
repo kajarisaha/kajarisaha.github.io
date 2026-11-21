@@ -8,11 +8,11 @@ nav_order: 2
 
 ## Works in Progress
 
-**Weathering Violence in India: Climate Shocks and Spousal Abuse** *(Job Market Paper)*
+**Weather Shocks and Intimate Partner Violence in Rural India** *(Job Market Paper)*
 <br>[\[Abstract\]](#abstract-climate) [\[Draft\]](https://drive.google.com/file/d/1iDX8D-oc-Q5tuSS7oihSn8OX44aYHxG0/preview)
 
 <div id="abstract-climate" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-This study examines how weather shocks affect women's exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women's reports of IPV from the 2015–16 and 2019–21 rounds of India's National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV. Growing-season drought raises the overall IPV prevalence by 10.8\%, while a one standard deviation increase in the number of days with mean temperature above $30^\circ$C raises it by 17.9\%. Consistent with an income channel, access to formal finance appears to mitigate the effect of drought on IPV. Finally, the larger effects of humid-heat relative to dry-heat in the non-growing season are consistent with a more immediate, heat-induced physiological stress channel.
+This study examines how weather shocks affect women's exposure to intimate partner violence (IPV) in rural India. I link geocoded weather data to women's reports of IPV from the 2015-16 and 2019-21 rounds of India's National Family Health Survey. Exposure to drought and extreme heat during the primary growing season significantly increases IPV, but only with a lag, consistent with income losses being realized after harvest. Growing-season drought raises the overall IPV index by 0.075 standard deviations, or roughly 10\% relative to its mean, while a one standard deviation increase in harmful degree-days above 30\textdegree C, relative to the location-specific long-run mean, raises it by 0.062 standard deviations, or roughly 8\% of the baseline mean. Outside the growing season, I find no detectable effect of drought on IPV. However, humid heat, as measured by wet-bulb temperature, in the non-growing season raises the risk of IPV in the same year of exposure, consistent with a physiological heat-stress channel that operates independently of income. Further, greater access to bank accounts and direct agricultural lending is associated with a smaller effect of drought on IPV.
 </div>
 
 ---
