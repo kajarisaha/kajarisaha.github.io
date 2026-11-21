@@ -13,7 +13,7 @@ nav_order: 4
 <br>[\[Course Description\]](#abstract-phd-metrics)
 
 <div id="abstract-phd-metrics" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-Course description coming soon.
+Students obtain a background in mathematical statistics as preparation for PhD level work in econometrics. Subsidiary goals: provide mild introduction to the tools used in studying the economics of uncertainty and an introduction to basic programming in Matlab. Topics covered include: elements of probability and statistics for econometrics, probability density functions, moment-generating functions, central limit theorems, method of maximum likelihood.
 </div>
 
 ---
@@ -26,7 +26,7 @@ Course description coming soon.
 <br>[\[Course Description\]](#abstract-stats)
 
 <div id="abstract-stats" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-Course description coming soon.
+An introduction to probability modeling and statistical inference applied to the analysis of economic data for students with basic knowledge of calculus. Topics covered include: probability, discrete and continuous random variables, probability distributions, mean, variance, correlation, sampling, parameter estimation, unbiasedness and efficiency, confidence intervals, and hypothesis testing. Computing labs with Excel and R.
 </div>
 
 ---
@@ -36,7 +36,7 @@ Course description coming soon.
 <br>[\[Course Description\]](#abstract-metrics)
 
 <div id="abstract-metrics" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-Course description coming soon.
+Introduction to econometrics for data analysis in economics and social sciences. The goal of the course is to learn how to use simple and multivariate linear regression for analyzing the relationship between economic variables, for prediction and for causal inference, understanding its underlying assumptions, advantages and pitfalls.
 </div>
 
 ---
@@ -46,7 +46,7 @@ Course description coming soon.
 <br>[\[Course Description\]](#abstract-intro)
 
 <div id="abstract-intro" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-Course description coming soon.
+A broad survey of economic principles, including both microeconomics and macroeconomics.
 </div>
 
 ---
@@ -56,7 +56,7 @@ Course description coming soon.
 <br>[\[Course Description\]](#abstract-micro)
 
 <div id="abstract-micro" style="display:none; margin: 10px 0 20px 20px; font-style: italic;">
-Course description coming soon.
+Economic theory relating to demand, production, and competitive product markets with emphasis on applications of theory.
 </div>
 
 ---
